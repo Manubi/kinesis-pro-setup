@@ -25,8 +25,8 @@ If the only file you have changed is `config/adv360.keymap`, execute `make build
 
 If you have changed other files in the `config` directory (such as `config/west.yml`) you will need to execute `make all` to rebuild the Docker image as well as the firmware.
 
-### Flash firmware
+### Flash firmware to ADV360-PRO
 
 Resources can be found on Kinesis.com
-https://kinesis-ergo.com/support/kb360pro/#firmware-updates
-https://kinesis-ergo.com/support/kb360pro/#manuals
+<https://kinesis-ergo.com/support/kb360pro/#firmware-updates>
+<https://kinesis-ergo.com/support/kb360pro/#manuals>
